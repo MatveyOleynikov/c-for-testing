@@ -3,6 +3,7 @@
 using namespace std;
 
 //rrr
+//fff
 
 void fast() {
     ios_base::sync_with_stdio(false);
