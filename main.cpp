@@ -2,6 +2,7 @@
 #define ll long long
 using namespace std;
 
+//rrr
 
 void fast() {
     ios_base::sync_with_stdio(false);
